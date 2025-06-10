@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 720.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, polygon, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA=='>
+    <rect x='59.04' y='59.04' width='630.72' height='443.52' />
+  </clipPath>
+</defs>
+<line x1='321.20' y1='170.72' x2='337.77' y2='86.96' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<polyline points='338.93,90.37 337.77,86.96 335.40,89.67 ' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<line x1='321.20' y1='170.72' x2='310.91' y2='200.64' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<polyline points='310.22,197.11 310.91,200.64 313.62,198.28 ' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<line x1='321.20' y1='170.72' x2='430.62' y2='320.69' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<polyline points='427.33,319.23 430.62,320.69 430.24,317.11 ' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<line x1='321.20' y1='170.72' x2='325.54' y2='299.97' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+<polyline points='323.64,296.92 325.54,299.97 327.24,296.80 ' style='stroke-width: 0.75; stroke: #FFA500;' clip-path='url(#cpNTkuMDR8Njg5Ljc2fDUwMi41Nnw1OS4wNA==)' />
+</svg>
